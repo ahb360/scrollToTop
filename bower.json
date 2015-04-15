@@ -1,0 +1,17 @@
+{
+  "name": "backToTop",
+  "version": "1.0.0",
+  "homepage": "https://github.com/ahb360/scrollToTop",
+  "authors": [
+    "Amir Basiri <amir.basiri@gmail.com>"
+  ],
+  "description": "back to top script",
+  "dependencies": {
+    "jquery": ">=1.10.2",
+  },
+  "main": "back-to-top.js",
+  "keywords": [
+    "backtotop"
+  ],
+  "license": "MIT"
+}
