@@ -6,9 +6,9 @@
     "Amir Basiri <amir.basiri@gmail.com>"
   ],
   "description": "back to top script",
-  "dependencies": [
-    "jquery": ">=1.10.2",
-  ],
+  "dependencies": {
+    "jquery": ">=1.10.2"
+  },
   "main": "back-to-top.js",
   "keywords": [
     "backtotop"
